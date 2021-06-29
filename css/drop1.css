@@ -1,0 +1,14 @@
+.achievements-all {
+  font-family: Nimbus Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 28px;
+  text-align: center;
+  border: 5px solid #636fb6;
+  margin: 40px 0;
+  padding: 20px;
+}
+.tech-numbers {
+  color: #636fb6;
+}
